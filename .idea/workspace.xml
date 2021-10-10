@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="02976608-3ea1-4286-a86a-dbadca85016b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/bai tap tao giao dien fromdang ky nguuoi dung.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thoi khoa bieu.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tao bang co ban 3.html" beforeDir="false" afterPath="$PROJECT_DIR$/tao bang co ban 3.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +72,8 @@
       <workItem from="1633707676435" duration="1102000" />
       <workItem from="1633745608373" duration="6552000" />
       <workItem from="1633766901154" duration="7505000" />
-      <workItem from="1633852420345" duration="1964000" />
+      <workItem from="1633852420345" duration="2323000" />
+      <workItem from="1633866982690" duration="4824000" />
     </task>
     <servers />
   </component>
