@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>chuyen doi tien</title>
+</head>
+<body>
+<h2>chuyển đổi tiền vnd >< usd</h2>
+<form>
+    amount:
+    <input type="text"id="nhapso">
+    <select name="" id="se1">
+        <option value="a">vnd</option>
+        <option value="c">usd</option>
+    </select>
+    <select name="" id="se2">
+        <option value="a"> vnd</option>
+        <option value="b">usd</option>
+    </select>
+    <button onclick="anvao()">convert</button>
+</form>
+<script>
+    function anvao() {
+        let giatrivao = document.getElementById('nhapso').value;
+        let se1 = document.getElementById('se1').value;
+        let se2 = document.getElementById('se2').value;
+        if (se1 == se2){
+            alert(giatrivao);
+        }
+        if (se1 == "a" && se2 == "b") {
+            alert(giatrivao / 23000);
+        }
+        if (se1 == "b" && se2 =="a"){alert(giatrivao * 23000)}
+    }
+</script>
+</body>
+</html>
