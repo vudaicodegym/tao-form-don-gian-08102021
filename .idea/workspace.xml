@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="02976608-3ea1-4286-a86a-dbadca85016b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/thuc hanh su dung toan tu.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bt bien, kieu du lien va toan tu.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,6 +58,11 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\test html" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -74,7 +79,7 @@
       <workItem from="1633852420345" duration="2323000" />
       <workItem from="1633866982690" duration="5875000" />
       <workItem from="1633937962375" duration="3196000" />
-      <workItem from="1633941489420" duration="1264000" />
+      <workItem from="1633941489420" duration="3896000" />
     </task>
     <servers />
   </component>
