@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="02976608-3ea1-4286-a86a-dbadca85016b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/th luyen tap voi cau truc if/th luyen tap cau truc if long.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/training switch case.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,7 +50,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/th luyen tap voi cau truc if" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -60,8 +60,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\test html\th luyen tap voi cau truc if" />
       <recent name="E:\test html" />
+      <recent name="E:\test html\th luyen tap voi cau truc if" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -82,7 +82,8 @@
       <workItem from="1633937962375" duration="3196000" />
       <workItem from="1633941489420" duration="6301000" />
       <workItem from="1633960420829" duration="4224000" />
-      <workItem from="1634005268257" duration="12303000" />
+      <workItem from="1634005268257" duration="12825000" />
+      <workItem from="1634045468678" duration="1733000" />
     </task>
     <servers />
   </component>
