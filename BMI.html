@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>BMI4</title>
+</head>
+<body>
+<script>
+    let height = parseFloat(prompt("nhập chiều cao mét"))
+    let weight = parseFloat(prompt("nhập cân nặng"))
+    let BMI = weight / (height**2)
+    if (BMI < 18){
+        document.write("underweigth")
+    }else if (BMI < 25){
+        document.write('nomal')
+    }else if(BMI < 30){
+        document.write('overweight')
+    }else (document.write(obese))
+</script>
+</body>
+</html>
