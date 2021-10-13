@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="02976608-3ea1-4286-a86a-dbadca85016b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/bt switch-case.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cau lenh wish-case.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai tap.html" beforeDir="false" afterPath="$PROJECT_DIR$/bai tap.html" afterDir="false" />
-    </list>
+    <list default="true" id="02976608-3ea1-4286-a86a-dbadca85016b" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -88,7 +83,7 @@
       <workItem from="1634045468678" duration="5048000" />
       <workItem from="1634086714839" duration="4918000" />
       <workItem from="1634097864735" duration="5080000" />
-      <workItem from="1634106458828" duration="1813000" />
+      <workItem from="1634106458828" duration="2145000" />
     </task>
     <servers />
   </component>
