@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>yeukhong?</title>
+</head>
+<body>
+<h1>do you love me?</h1>
+<button onclick="co()">Có</button>
+<button id="khong" onmouseover="ko()" style="position: absolute;left: 80px;top: 80px">đóe</button>
+<script>
+    function co() {
+        alert("ahihi đồ ngok")
+    }
+    function ko() {
+        let a = window.innerWidth;
+        let b = window.innerHeight;
+        document.getElementById('khong').style.left = Math.round(a * Math.random()) + 'px';
+        document.getElementById('khong').style.top = Math.round(b * Math.random()) + 'px';
+    }
+</script>
+</body>
+</html>
