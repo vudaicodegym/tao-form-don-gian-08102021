@@ -70,6 +70,43 @@
 
 <!--    }-->
 <!--</script>-->
-<!--bài 5-->
+<!--<h2>bài 5: xếp hạn học lực</h2>>-->
+<!--<form action="">-->
+<!--    điểm giữa kỳ <input type="text" id="num1">-->
+<!--    <br>-->
+<!--    điểm cuối kỳ <input type="text" id="num2">-->
+<!--    <br>-->
+<!--    <input type="button" value="check" onclick="check()">-->
+<!--</form>-->
+<!--<script>-->
+<!--    function check() {-->
+<!--        let x1 = + document.getElementById("num1").value;-->
+<!--        let x2 = + document.getElementById("num2").value;-->
+<!--        let medium = (x2 * 2 + x1) / 3;-->
+<!--        document.write("điểm trung bình là  " + medium)-->
+<!--        if (medium >= 8) {-->
+<!--            alert("học lực giỏi")-->
+<!--        } else if (medium >= 6.5) {-->
+<!--            alert('học lực khá')-->
+<!--        } else if (medium >= 5) {-->
+<!--            alert("học lực trung bình")-->
+<!--        } else (alert("học lực yếu"))-->
+<!--    }-->
+<!--</script>-->
+<h2>bài 6 tính hoa hồng theo doanh thu</h2>
+<form action="">
+    nhập doanh thu <input type="text" id="business">
+    <br>
+    <input type="button" value="check hoa hồng" onclick="check()">
+</form>
+<script>
+    function check(){
+        let business = + document.getElementById('business').value
+        let tip = + business * 0.06;
+        document.write("tiền hoa hông của chú là:  " + tip)
+    }
+</script>
+<!--<h2>bài 7: tính cước điện thoại</h2>-->
+<!--ahihi  bài này hơi khó :))-->
 </body>
 </html>
