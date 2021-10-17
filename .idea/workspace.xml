@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="02976608-3ea1-4286-a86a-dbadca85016b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/bang cuu chuong.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/th hien thi dau ra.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bt cau truc dk1.html" beforeDir="false" afterPath="$PROJECT_DIR$/bt cau truc dk1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nested loops.html" beforeDir="false" afterPath="$PROJECT_DIR$/nested loops.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bt cau truc dk1.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,7 +89,10 @@
       <workItem from="1634097864735" duration="5080000" />
       <workItem from="1634106458828" duration="23890000" />
       <workItem from="1634260920893" duration="6895000" />
-      <workItem from="1634279705935" duration="2889000" />
+      <workItem from="1634279705935" duration="3295000" />
+      <workItem from="1634283039875" duration="75000" />
+      <workItem from="1634457854844" duration="143000" />
+      <workItem from="1634458008098" duration="2013000" />
     </task>
     <servers />
   </component>
